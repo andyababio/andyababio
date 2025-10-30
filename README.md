@@ -47,6 +47,10 @@ I am     **`Certified Data Analyst Professional`**
 |---------|-------|-------------|
 | [Employee Demographics](https://github.com/andyababio/Employee-Insights-and-Analytics---DISC-CORP) | MySQL, Power Bi | This project demonstrates an end-to-end data analytics workflow that involved cleaning, analyzing, and visualizing employee data to uncover key workforce trends that enable data-driven decision-making within Human Resources. |
 | [File Access Portal](https://github.com/andyababio/File_access_portal) | Python (Flask), HTML, CSS | A simple Flask-based web application that allows users to securely download their personalized documents by selecting their name and entering their unique ID. |
+|[Sales, Profitability, CustomerInsight](https://github.com/andyababio/Sales-Profitabilty-CustomerInsight)| <-- Click the link |Coming soon|
+|---------|-------|-------------|
+|---------|-------|-------------|
+|---------|-------|-------------|
 
 
 #
