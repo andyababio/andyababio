@@ -43,15 +43,15 @@ I am     **`Certified Data Analyst Professional`**
 
 # Projects
 
-| Project | Tools | Description |
-|---------|-------|-------------|
-| [Jiji Cars Marketplace Analysis & Insight](https://github.com/andyababio/Jiji-Cars-Analysis) | Python, MySQL, PowerBi |This project provides an end-to-end analytical exploration of the car listings section on Jiji.com, an African online marketplace. The workflow includes web scraping, data cleaning, and transformation using Python and MySQL, followed by interactive data visualization and insights generation in Power BI.|
-| [Sales, Profitability, Customer Insight](https://github.com/andyababio/Sales-Profitabilty-CustomerInsight)| MySQL, Power Bi | This entails a full operational and retial analysis of Axis and Oak, a U.S.-based retail store dealing in clothing, electronics, and other consumer goods. The goal is to provide a clear snapshot of the store’s current business performance and uncover insights that will help executives determine where to focus effort and resources for maximum impact|
-| [Employee Demographics](https://github.com/andyababio/Employee-Insights-and-Analytics---DISC-CORP) | MySQL, Power Bi | This project demonstrates an end-to-end data analytics workflow that involved cleaning, analyzing, and visualizing employee data to uncover key workforce trends that enable data-driven decision-making within Human Resources. |
-| [File Access Portal](https://github.com/andyababio/File_access_portal) | Python (Flask), HTML, CSS | A simple Flask-based web application that allows users to securely download their personalized documents by selecting their name and entering their unique ID. |
-|---------|-------|-------------|
-|---------|-------|-------------|
-|---------|-------|-------------|
+| Project | Tools | Description |Thumbnail|
+|---------|-------|-------------|---------|
+| [Jiji Cars Marketplace Analysis & Insight](https://github.com/andyababio/Jiji-Cars-Analysis) | Python, MySQL, PowerBi |This project provides an end-to-end analytical exploration of the car listings section on Jiji.com, an African online marketplace. The workflow includes web scraping, data cleaning, and transformation using Python and MySQL, followed by interactive data visualization and insights generation in Power BI.|---------|
+| [Sales, Profitability, Customer Insight](https://github.com/andyababio/Sales-Profitabilty-CustomerInsight)| MySQL, Power Bi | This entails a full operational and retial analysis of Axis and Oak, a U.S.-based retail store dealing in clothing, electronics, and other consumer goods. The goal is to provide a clear snapshot of the store’s current business performance and uncover insights that will help executives determine where to focus effort and resources for maximum impact|---------|
+| [Employee Demographics](https://github.com/andyababio/Employee-Insights-and-Analytics---DISC-CORP) | MySQL, Power Bi | This project demonstrates an end-to-end data analytics workflow that involved cleaning, analyzing, and visualizing employee data to uncover key workforce trends that enable data-driven decision-making within Human Resources. |---------|
+| [File Access Portal](https://github.com/andyababio/File_access_portal) | Python (Flask), HTML, CSS | A simple Flask-based web application that allows users to securely download their personalized documents by selecting their name and entering their unique ID. |---------|
+|---------|-------|-------------|---------|
+|---------|-------|-------------|---------|
+|---------|-------|-------------|---------|
 
 
 #
