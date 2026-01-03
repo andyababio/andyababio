@@ -63,41 +63,7 @@ I am     **`Certified Data Analyst Professional`**
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!--
 # TESTING 4
 ## 🖼️ Dashboard Gallery
 
@@ -105,5 +71,6 @@ I am     **`Certified Data Analyst Professional`**
 |--|--|
 | <img src="assets/jiji_Summary.png" width="350"/> | <img src="assets/sales_dashboard.png" width="350"/> |
 | **Jiji Cars Analysis**<br>[View](link) | **Sales & Profitability**<br>[View](link) |
+-->
 
 
