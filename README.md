@@ -45,9 +45,12 @@ I am     **`Certified Data Analyst Professional`**
 
 | Project | Tools | Description | Thumbnail |
 |--------|-------|-------------|-----------|
-| [Jiji Cars Marketplace Analysis & Insight](https://github.com/andyababio/Jiji-Cars-Analysis) | Python, MySQL, Power BI | End-to-end analysis of car listings on Jiji.com using web scraping, data cleaning, SQL analysis, and interactive Power BI dashboards to generate marketplace insights. | <img src="assets/jiji_Summary.png" width="600"/> |
+| [Marketplace Analysis & Insight - Jiji Cars](https://github.com/andyababio/Jiji-Cars-Analysis) | Python, MySQL, Power BI | End-to-end analysis of car listings on Jiji.com using web scraping, data cleaning, SQL analysis, and interactive Power BI dashboards to generate marketplace insights. | <img src="assets/jiji_Summary.png" width="600"/> |
+| [A/B Testing Message Framing](https://github.com/andyababio/A-B-Testing-Message-Framing-to-Improve-Loan-Repayments) | Excel, Power BI | This project demonstrates the design and execution of an A/B test to optimize digital loan recovery campaigns. It compares standard reminder messages with empathetic, supportive messaging to identify which approach drives higher repayment rates. | <img src="assets/AB_testing_dashboard.png" width="600"/> |
+| [Marketing Funnel & ROI Analytics](https://github.com/andyababio/Marketing-Funnel-and-ROI-Analytics) | Excel, Power BI | The analysis tracks multi-channel campaign performance across the full user funnel — from impressions and clicks to sign-ups, purchases, and revenue, while evaluating spend efficiency, ROI, and market-level performance. | <img src="assets/marketing_summary_page.png" width="600"/> |
 | [Sales, Profitability & Customer Insight](https://github.com/andyababio/Sales-Profitabilty-CustomerInsight) | MySQL, Power BI | Operational and retail performance analysis for a U.S.-based multi-category store, uncovering revenue, profitability, and customer behavior insights for decision-makers. | <img src="assets/sales_perf_summary_page.png" width="600"/> |
 | [Employee Demographics & HR Analytics](https://github.com/andyababio/Employee-Insights-and-Analytics---DISC-CORP) | MySQL, Power BI | Workforce analytics project analyzing employee demographics and trends to support data-driven HR decision-making. | <img src="https://github.com/user-attachments/assets/7ba217c8-7f0a-4d34-b1dc-f727d6a7675d" width="600"/> |
+
 
 
 
