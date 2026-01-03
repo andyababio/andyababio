@@ -45,11 +45,62 @@ I am     **`Certified Data Analyst Professional`**
 
 | Project | Tools | Description | Thumbnail |
 |--------|-------|-------------|-----------|
-| [Jiji Cars Marketplace Analysis & Insight](https://github.com/andyababio/Jiji-Cars-Analysis) | Python, MySQL, Power BI | End-to-end analysis of car listings on Jiji.com using web scraping, data cleaning, SQL analysis, and interactive Power BI dashboards to generate marketplace insights. | <img src="assets/jiji_Summary.png" width="180"/> |
-| [Sales, Profitability & Customer Insight](https://github.com/andyababio/Sales-Profitabilty-CustomerInsight) | MySQL, Power BI | Operational and retail performance analysis for a U.S.-based multi-category store, uncovering revenue, profitability, and customer behavior insights for decision-makers. | <img src="assets/sales_dashboard.png" width="180"/> |
-| [Employee Demographics & HR Analytics](https://github.com/andyababio/Employee-Insights-and-Analytics---DISC-CORP) | MySQL, Power BI | Workforce analytics project analyzing employee demographics and trends to support data-driven HR decision-making. | <img src="assets/hr_dashboard.png" width="180"/> |
-| [File Access Portal](https://github.com/andyababio/File_access_portal) | Python (Flask), HTML, CSS | Secure web application allowing users to download personalized documents using name and unique ID verification. | <img src="assets/file_portal.png" width="180"/> |
+| [Jiji Cars Marketplace Analysis & Insight](https://github.com/andyababio/Jiji-Cars-Analysis) | Python, MySQL, Power BI | End-to-end analysis of car listings on Jiji.com using web scraping, data cleaning, SQL analysis, and interactive Power BI dashboards to generate marketplace insights. | <img src="assets/jiji_Summary.png" width="600"/> |
+| [Sales, Profitability & Customer Insight](https://github.com/andyababio/Sales-Profitabilty-CustomerInsight) | MySQL, Power BI | Operational and retail performance analysis for a U.S.-based multi-category store, uncovering revenue, profitability, and customer behavior insights for decision-makers. | <img src="assets/sales_perf_summary_page.png" width="600"/> |
+| [Employee Demographics & HR Analytics](https://github.com/andyababio/Employee-Insights-and-Analytics---DISC-CORP) | MySQL, Power BI | Workforce analytics project analyzing employee demographics and trends to support data-driven HR decision-making. | <img src="https://github.com/user-attachments/assets/7ba217c8-7f0a-4d34-b1dc-f727d6a7675d" width="600"/> |
 
 
 
-#
+## Internal Tools & Automation
+| Project | Tools | Description | Thumbnail |
+|--------|-------|-------------|-----------|
+| [File Access Portal](https://github.com/andyababio/File_access_portal) | Python (Flask), HTML, CSS | Secure web application allowing users to download personalized documents using name and unique ID verification. | <img src="https://github.com/user-attachments/assets/fcf2b020-6fb5-46f0-a182-9a7ff1c02867" width="600"/> |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# TESTING 4
+## 🖼️ Dashboard Gallery
+
+| | |
+|--|--|
+| <img src="assets/jiji_Summary.png" width="350"/> | <img src="assets/sales_dashboard.png" width="350"/> |
+| **Jiji Cars Analysis**<br>[View](link) | **Sales & Profitability**<br>[View](link) |
+
+
