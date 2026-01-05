@@ -12,8 +12,7 @@
 </h1>
 
 
-I am     **`Certified Data Analyst Professional`**
- with a skills in Python, SQL, Power BI, and Data Visualization. My work spans data extraction, modeling, analysis, and visualization: with a focus on effectively communicating to (non)-technical teams helping to understand performance, optimize decisions, and drive measurable outcomes.
+I am **`Certified Data Analyst Professional`** with knowledge in Python, SQL, Power BI, and Data Visualization. My work spans data extraction, modeling, analysis, and visualization: with a focus on effectively communicating to (non)-technical teams helping to understand performance, optimize decisions, and drive measurable outcomes.
 
 #
 
