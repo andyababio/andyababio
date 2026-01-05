@@ -13,7 +13,7 @@
 
 
 I am     **`Certified Data Analyst Professional`**
- with a strong foundation in Python, SQL, Power BI, and Data Visualization. With a background in Business Administration and HR, I bring a unique perspective that combines analytical skills with business acumen. I am passionate about transforming raw data into meaningful insights that drive decision-making and organizational growth.
+ with a skills in Python, SQL, Power BI, and Data Visualization. My work spans data extraction, modeling, analysis, and visualization: with a focus on effectively communicating to (non)-technical teams helping to understand performance, optimize decisions, and drive measurable outcomes.
 
 #
 
